@@ -7,8 +7,12 @@
 !
 !
 ||securepubads.g.doubleclick.net^
+||ash.creativedn.com^
 ||www.googleadservices.com^
 ||googleadservices.com^
+||googleads.g.doubleclick.net^
+||www.youtube.com/pagead^
+||youtube.com/pagead^
 ||fundingchoicesmessages.google.com^
 ||rtb-csync.smartadserver.com^
 ||pagead2.googlesyndication.com^
@@ -18,3 +22,7 @@
 ||tungsten-service.prod.na.adsqtungsten.a9.amazon.dev^
 ||config.aps.amazon-adsystem.com^
 ||aax-us-east.amazon-adsystem.com^
+||rr1---sn-oxunxg8pjvn-4aoz.googlevideo.com^
+||rr2---sn-oxunxg8pjvn-4aos.googlevideo.com^
+||www.youtube.com/api/stats/ads^
+||youtube.com/api/stats/ads^
