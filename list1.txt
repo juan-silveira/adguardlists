@@ -8,5 +8,6 @@
 !
 ||securepubads.g.doubleclick.net^
 ||www.googleadservices.com^
+||googleadservices.com^
 ||pagead2.googlesyndication.com^
 ||aax-us-east.amazon-adsystem.com^
