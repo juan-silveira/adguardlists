@@ -28,3 +28,6 @@
 ||www.youtube.com/api/stats/ads^
 ||youtube.com/api/stats/ads^
 ||m.youtube.com/api/stats/ads^
+||www.gstatic.com^
+||gstatic.com^
+||ogads-pa.clients6.google.com^
