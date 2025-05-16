@@ -9,5 +9,12 @@
 ||securepubads.g.doubleclick.net^
 ||www.googleadservices.com^
 ||googleadservices.com^
+||fundingchoicesmessages.google.com^
+||rtb-csync.smartadserver.com^
 ||pagead2.googlesyndication.com^
+||sq-tungsten-ts.amazon-adsystem.com^
+||ts.amazon-adsystem.com^
+||c.amazon-adsystem.com^
+||tungsten-service.prod.na.adsqtungsten.a9.amazon.dev^
+||config.aps.amazon-adsystem.com^
 ||aax-us-east.amazon-adsystem.com^
