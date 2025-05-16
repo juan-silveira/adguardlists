@@ -1,0 +1,12 @@
+!
+! Title: Hogwarts DNS filter
+! Description: List composed of several filters (For brazilian websites) and simplified specifically to be better compatible with DNS-level ad blocking
+! Version: 1.0.0
+! Homepage: https://github.com/juan-silveira/adguardlists
+! Last modified: 2025-05-16T14:35:59.988Z
+!
+!
+||securepubads.g.doubleclick.net^
+||www.googleadservices.com^
+||pagead2.googlesyndication.com^
+||aax-us-east.amazon-adsystem.com^
